@@ -1,4 +1,4 @@
-# illumino - firewall - challenge
+# illumio - firewall - challenge
 
 #### Folder Structure
 1. src -- contains source codee
