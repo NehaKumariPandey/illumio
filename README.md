@@ -22,9 +22,9 @@
 
 ##### Teams in order of preference
 
-1. Policy Team
-2. Platform Team
-3. Data Team (intrigued -- would love to know more)
+1. Data Team (intrigued -- would love to know more)
+2. Policy Team
+3. Platform Team
 
 #### Interested?
 Reach out to me at my email (neha2493@gmail.com) or my linkedin (https://www.linkedin.com/in/kuneha/) profile. 
