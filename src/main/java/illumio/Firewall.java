@@ -1,4 +1,4 @@
-package illumino;
+package illumio;
 
 import com.google.common.net.InetAddresses;
 import lombok.Data;

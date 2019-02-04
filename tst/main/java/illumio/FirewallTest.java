@@ -1,4 +1,4 @@
-package illumino;
+package illumio;
 
 import org.junit.Before;
 import org.junit.Test;
